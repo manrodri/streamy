@@ -1,5 +1,6 @@
 import React from 'react'
 import {Link} from "react-router-dom";
+import GoogleAuth from "./GoogleAuth";
 
 const Header = () => {
     return (
@@ -8,17 +9,11 @@ const Header = () => {
                 Streamy
             </Link>
 
-            {/*<Link className="item">*/}
-            {/*    Friends*/}
-            {/*</Link>*/}
             <div className="right menu">
                 <Link to={`/`} className="ui item">
                     All streams
                 </Link>
-                <Link to={`/login`} className=" item">
-                Login
-            </Link>
-
+                <GoogleAuth/>
             </div>
         </div>
 
