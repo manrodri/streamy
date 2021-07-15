@@ -9,6 +9,28 @@
       "title": "Another stream",
       "description": "One more quality stream form Manu",
       "id": 2
+    },
+    {
+      "title": "I created this stream",
+      "description": "this was made by me",
+      "userId": "104987492121320584530",
+      "id": 3
+    },
+    {
+      "title": "React with AWS Amplify",
+      "description": "Crate an React full stack app in 30 mins",
+      "id": 4
+    },
+    {
+      "title": "A new stream about refactoring",
+      "description": "Manu high delivery standard hasn't changed",
+      "id": 5
+    },
+    {
+      "title": "hello there",
+      "description": "blah blah blah blah blah",
+      "userId": "104987492121320584530",
+      "id": 6
     }
   ]
 }
