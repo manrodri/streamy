@@ -23,3 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 /.idea/
 /apiserver/node_modules/
+/rtmpserver/node_modules/
